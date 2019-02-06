@@ -1,4 +1,4 @@
-# MessagingProgram-CPP
+# MessagingProgram
 Simple messaging program.
 This program uses sockets for different processes to talk to eachother by sending messages.
 Multiple "clients" can connect at a time.
