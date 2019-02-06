@@ -5,6 +5,7 @@ Multiple "clients" can connect at a time.
 Messages can be sent to all or a specific client.
 
 Quick start-up guide:
+
 1.Start the Server 'main' before running any client 'main's.
 
 2.To start client 'main', ./main localhost.
